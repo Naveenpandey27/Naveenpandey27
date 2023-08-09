@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **naveenpandey2706@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kLtFXMIVEgY0zSdJGENWEd6pP_1lneLe/view?usp=drive_link](https://drive.google.com/file/d/1kLtFXMIVEgY0zSdJGENWEd6pP_1lneLe/view?usp=drive_link)
-
 - ⚡ Fun fact **I like writing**
 
 <h3 align="left">Connect with me:</h3>
