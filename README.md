@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/naveenpandey27" target="blank"><img src="https://img.shields.io/twitter/follow/naveenpandey27?logo=twitter&style=for-the-badge" alt="naveenpandey27" /></a> </p>
 
-- 🔭 I’m currently working at **Nexergy Ventures Private Limited**
+- 🔭 I’m currently working at **Faclon Labs** as a **AI Engineer**
 
-- 🌱 I’m currently learning **LLMs and Generative AI**
+- 🌱 I’m currently learning/working on **LLMs and Generative AI Applications**
 
 - 👨‍💻 few of my projects are available at [https://naveenpandey27.github.io/NaveenTheDataScientist.github.io/](https://naveenpandey27.github.io/NaveenTheDataScientist.github.io/)
 
 - 📝 I regularly write articles on [https://www.nomidl.com/](https://www.nomidl.com/)
-
-- 🤝 I’m looking for a new role **Data Scientist**
 
 - 📫 How to reach me **naveenpandey2706@gmail.com**
 
