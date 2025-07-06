@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/naveenpandey27" target="blank"><img src="https://img.shields.io/twitter/follow/naveenpandey27?logo=twitter&style=for-the-badge" alt="naveenpandey27" /></a> </p>
 
-- 🔭 I’m currently working at **Evalueserve** as an **Senior Generative AI Engineer**
+- 🔭 I’m currently working at **Evalueserve** as a **Sr. Generative AI Engineer**
 
 - 🌱 I’m currently learning/working on **LLMs and Generative AI Applications**
 
 - 👨‍💻 few of my projects are available at [https://naveenpandey27.github.io/NaveenTheDataScientist.github.io/](https://naveenpandey27.github.io/NaveenTheDataScientist.github.io/)
 
-- 📝 I regularly write articles on [https://www.nomidl.com/](https://www.nomidl.com/) **and** [https://www.medium.com/](https://medium.com/@naveenpandey2706) 
+- 📝 I sometimes write articles on [https://www.nomidl.com/](https://www.nomidl.com/) **and** [https://www.medium.com/](https://medium.com/@naveenpandey2706) 
 
-- 📫 How to reach me **naveenpandey2706@gmail.com**
+- 📫 How to reach out to me **naveenpandey2706@gmail.com**
 
 - ⚡ Fun fact **I like writing**
 
