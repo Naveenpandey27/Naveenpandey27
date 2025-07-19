@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning/working on **LLMs and Generative AI Applications**
 
-- 👨‍💻 few of my projects are available at [https://naveenpandey27.github.io/NaveenTheDataScientist.github.io/](https://naveenpandey27.github.io/NaveenTheDataScientist.github.io/)
+- 👨‍💻 few of my projects are available at [https://naveenpandey27.github.io/](https://naveenpandey27.github.io/)
 
 - 📝 I sometimes write articles on [https://www.nomidl.com/](https://www.nomidl.com/) **and** [https://www.medium.com/](https://medium.com/@naveenpandey2706) 
 
