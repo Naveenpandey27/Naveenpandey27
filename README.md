@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently working on **LLMs and Generative AI Applications**
 
+- 🔍 I’m currently exploring MCP, A2A, and Context Engineering to build smarter GenAI systems
+
 - 👨‍💻 few of my projects are available at [https://naveenpandey27.github.io/](https://naveenpandey27.github.io/)
 
 - 📝 I sometimes write articles on [https://www.nomidl.com/](https://www.nomidl.com/) **and** [https://www.medium.com/](https://medium.com/@naveenpandey2706) 
