@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Evalueserve** as a **Sr. Engineer (GenAI)**
 
-- 🌱 I’m currently learning/working on **LLMs and Generative AI Applications**
+- 🌱 I’m currently working on **LLMs and Generative AI Applications**
 
 - 👨‍💻 few of my projects are available at [https://naveenpandey27.github.io/](https://naveenpandey27.github.io/)
 
